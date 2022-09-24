@@ -92,7 +92,7 @@ Se você quiser acessar a documentação das aplicações, você pode acessar vi
 
 Documentação da API:
 
-`http//localhost:8000/docs
+http//localhost:8000/docs
 
 <a id="-como-contribuir"></a>
 
