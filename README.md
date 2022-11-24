@@ -59,22 +59,15 @@ Lembre-se de configurar o arquivo `.env` com os seus dados desejados.
 Foi disponibilizado um arquivo `.env.example` para configurar o docker.
 
 ```
-DATABASE_HOSTNAME=
-
+# Default Host of Container, don't change
+DATABASE_HOSTNAME=db
 DATABASE_PORT=
-
 DATABASE_PASSWORD=
-
 DATABASE_NAME=
-
 DATABASE_USERNAME=
 
-
-
 SECRET_KEY=
-
 ALGORITHM=
-
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 ```
 
